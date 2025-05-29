@@ -1,0 +1,5 @@
+# Ignore node_modules directior
+node_modules/
+
+# other entries...
+
